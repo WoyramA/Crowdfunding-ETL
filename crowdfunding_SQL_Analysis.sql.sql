@@ -27,7 +27,7 @@ SELECT backers.first_name,
 	backers.last_name,
 	backers.email,
 	campaign.goal - campaign.pledged  AS "Remaining Goal Amount"
--- INTO email_contacts_remaining_goal_amount
+INTO email_contacts_remaining_goal_amount
 FROM campaign
 INNER JOIN backers
 ON campaign.cf_id = backers.cf_id
@@ -37,6 +37,7 @@ ORDER BY "Remaining Goal Amount" DESC;
 
 
 -- Check the table
+SELECT * FROM email_contacts_remaining_goal_amount;
 
 
 -- 4. (5 pts)
@@ -51,7 +52,7 @@ backers.first_name,
 	campaign.description,
 	campaign.end_date,
 	campaign.goal - campaign.pledged  AS "Left of Goal"
--- INTO email_backers_remaining_goal_amount
+INTO email_backers_remaining_goal_amount
 FROM campaign
 INNER JOIN backers
 ON campaign.cf_id = backers.cf_id
@@ -61,5 +62,5 @@ ORDER BY email DESC;
 
 
 -- Check the table
-
+SELECT * FROM email_backers_remaining_goal_amount;
 

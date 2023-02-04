@@ -7,7 +7,7 @@ Category:
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/category_file.csv
 Subcategory: 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/subcategory_file.csv
-Contacts: 
+Contacts:
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/contacts.csv
 
 An ERD was created and the Table Schema was then used to process the data with SQL.

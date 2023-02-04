@@ -7,7 +7,6 @@ Category:
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/category_file.csv
 Subcategory: 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/subcategory_file.csv
-
 Contacts: 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/contacts.csv
 

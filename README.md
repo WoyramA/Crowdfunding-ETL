@@ -7,8 +7,10 @@ Category:
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/category_file.csv
 Subcategory: 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/subcategory_file.csv
+
 Contacts: 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/contacts.csv
+
 An ERD was created and the Table Schema was then used to process the data with SQL.
 
 Following, the successful processiong of the crowdfunding data, Independent funding then provided a new dataset about the backers which was added to the initial dataset to 

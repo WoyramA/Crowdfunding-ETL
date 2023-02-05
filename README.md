@@ -50,9 +50,10 @@ Tabel 1
 
 
 Table 2 
+The email_backers_remaining_goal_amount containing the email addresses of the backers in descending order, the first and the last name, the cf_id, company name, description, the end date of the campaign, and the remaining amount of the campaign goal as ("Left of Goal").
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv
 
 
 ## Summary
-The Crowdfunding-ETL task resulted in successfully extracting, transforming, cleaning and loading data using ERD and Schema code. The tables capturing the details of the contacts of the live campaign to show the 'Remaining goal amount' and 'Left goal' were obtained. 
+The Crowdfunding-ETL task resulted in successfully extracting, transforming, cleaning and loading data using ERD and Schema code. The tables capturing the details of the contacts of the live campaign to show the 'Remaining goal amount' and 'Left of goal' were obtained. 
 

@@ -16,21 +16,23 @@ An ERD was created for the four tables for the campaing, contacts, category and 
 ## Overview
 Following, the successful processing extrction, transformation, cleaning and loading of the crowdfunding data, Independent funding then provided a new dataset (backers_info) about the campaign backers which was added to the initial dataset by the Britta-Woyram team. The new dataset was extracted, transformed and cleaned with Python, into the backers table as backers.csv. The cleaned backers data was then used to create a new ERD and Schema, used to generate queries to create two tables to show the remaining goal amount from the campaign. 
 
-
-## Background
-
-
-
 ## Results
-Deliverable 1 and 2 as 
+In Crowdfunding-ETL project, four deliverables were expected from the Britta-Woyram team. Results of the project are delivered below:
 
-Deliverable 3
+### Deliverable 1 and 2 
+
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/Extract-Transform_starter_code_final.ipynb
+
+### Deliverable 3
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png.png
+
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/updatedcrowdfunding_db_schema.sql.sql
 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/backers.csv
 Backers Table: 
 ![image](https://user-images.githubusercontent.com/114967995/216800882-392ec88d-b5d7-4e96-a95d-2fc95244037f.png)
 
-Deliverable 4
+### Deliverable 4
 The SQL_Analysis_Schema https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql.sql was used to generate two tables as follows:
 Table 1: The email_contacts_remaining_goal_amount showing the firstnames, lastnames, email address and the remaining goal amount (as "Remaining Goal Amount") in descending order for each live campaign. https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_contacts_remaining_goal_amount.csv
 ![image](https://user-images.githubusercontent.com/114967995/216801775-4ab1a5e3-4b28-420f-bc59-53c46909dd27.png)

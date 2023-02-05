@@ -35,7 +35,8 @@ Backers Table:
 ### Deliverable 4
 The SQL_Analysis_Schema https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql.sql was used to generate two tables as follows:
 Table 1: The email_contacts_remaining_goal_amount showing the firstnames, lastnames, email address and the remaining goal amount (as "Remaining Goal Amount") in descending order for each live campaign. https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_contacts_remaining_goal_amount.csv
-![image](https://user-images.githubusercontent.com/114967995/216801775-4ab1a5e3-4b28-420f-bc59-53c46909dd27.png)
+![image](https://user-images.githubusercontent.com/114967995/216802260-43f53145-3360-44ab-82c0-615f19d4c71c.png)
+
 
 Table 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv

@@ -14,7 +14,7 @@ An ERD was created and the Table Schema was then used to process the data with S
 
 
 ## Overview
-Following, the successful processiong of the crowdfunding data, Independent funding then provided a new dataset (backers_info) about the backers which was added to the initial dataset. The new dataset was extracted, transformed and cleaned with Python, into backers table 
+Following, the successful processiong of the crowdfunding data, Independent funding then provided a new dataset (backers_info) about the backers which was added to the initial dataset. The new dataset was extracted, transformed and cleaned with Python, into backers table as https://github.com/WoyramA/Crowdfunding-ETL/blob/main/backers.csv
 Backers Table:
 
 

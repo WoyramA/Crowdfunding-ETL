@@ -20,14 +20,20 @@ Following, the successful processing extrction, transformation, cleaning and loa
 In Crowdfunding-ETL project, four deliverables were expected from the Britta-Woyram team. Results of the project are delivered below:
 
 ### Deliverable 1 and 2 
-
-https://github.com/WoyramA/Crowdfunding-ETL/blob/main/Extract-Transform_starter_code_final.ipynb
+Deliverable 1 as code that captures the extraction and transformation part of the backers_info.csv data while the Deliverable 2 portion contains code used to clean and save the data into bakers.csv  
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/Extract-Transform_starter_code_final.ipynb 
 
 ### Deliverable 3
+Deliverable 3 being an ERD Diagram, a Schema and backers file.
+#### ERD Diagram
+An ERD diagram between the four tables for the campaign, category, subcategory, contacts and the backers table was created.
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png.png
 
+### Schema
+A schema with code for all five tables for campaign, category, subcategory, contacts and the backers was generated for loading tables SQL
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/updatedcrowdfunding_db_schema.sql.sql
 
+### Backers file
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/backers.csv
 Backers Table: 
 ![image](https://user-images.githubusercontent.com/114967995/216800882-392ec88d-b5d7-4e96-a95d-2fc95244037f.png)
@@ -43,7 +49,7 @@ Tabel 1
 ![image](https://user-images.githubusercontent.com/114967995/216802260-43f53145-3360-44ab-82c0-615f19d4c71c.png)
 
 
-Table 
+Table 2 
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv
 
 

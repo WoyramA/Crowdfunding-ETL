@@ -25,8 +25,8 @@ https://github.com/WoyramA/Crowdfunding-ETL/blob/main/Extract-Transform_starter_
 
 ### Deliverable 3
 Deliverable 3 being an ERD Diagram, a Schema and backers file.
-#### ERD Diagram
-An ERD diagram between the four tables for the campaign, category, subcategory, contacts and the backers table was created.
+#### ERD 
+A relationship diagram between the four tables for the campaign, category, subcategory, contacts and the backers table was created.
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png.png
 
 ### Schema
@@ -54,5 +54,5 @@ https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_backers_remaining_go
 
 
 ## Summary
-
+The Crowdfunding-ETL task resulted in successfully extracting, transforming, cleaning and loading data using ERD and Schema code. The tables capturing the details of the contacts of the live campaign to show the 'Remaining goal amount' and 'Left goal' were obtained. 
 

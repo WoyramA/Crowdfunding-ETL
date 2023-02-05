@@ -37,7 +37,9 @@ The SQL_Analysis_Schema https://github.com/WoyramA/Crowdfunding-ETL/blob/main/cr
 
 Table 1: 
 The email_contacts_remaining_goal_amount showing the firstnames, lastnames, email address and the remaining goal amount (as "Remaining Goal Amount") in descending order for each live campaign. https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_contacts_remaining_goal_amount.csv
+
 Tabel 1
+
 ![image](https://user-images.githubusercontent.com/114967995/216802260-43f53145-3360-44ab-82c0-615f19d4c71c.png)
 
 

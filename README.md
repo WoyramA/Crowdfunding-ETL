@@ -10,21 +10,31 @@ https://github.com/WoyramA/Crowdfunding-ETL/blob/main/subcategory_file.csv
 Contacts:
 https://github.com/WoyramA/Crowdfunding-ETL/blob/main/contacts.csv
 
-An ERD was created and the Table Schema were then ready to be used to process the data with SQL. 
+An ERD was created for the four tables for the campaing, contacts, category and subcategory. The Table Schema was then ready to be used to process the data with SQL. 
 
 
 ## Overview
-Following, the successful processing of the crowdfunding data, Independent funding then provided a new dataset (backers_info) about the backers which was added to the initial dataset. The new dataset was extracted, transformed and cleaned with Python, into backers table as https://github.com/WoyramA/Crowdfunding-ETL/blob/main/backers.csv
-Backers Table: 
-![image](https://user-images.githubusercontent.com/114967995/216800882-392ec88d-b5d7-4e96-a95d-2fc95244037f.png)
-
+Following, the successful processing extrction, transformation, cleaning and loading of the crowdfunding data, Independent funding then provided a new dataset (backers_info) about the campaign backers which was added to the initial dataset by the Britta-Woyram team. The new dataset was extracted, transformed and cleaned with Python, into the backers table as backers.csv. The cleaned backers data was then used to create a new ERD and Schema, used to generate queries to create two tables to show the remaining goal amount from the campaign. 
 
 
 ## Background
 
 
+
 ## Results
 Deliverable 1 and 2 as 
+
+Deliverable 3
+
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/backers.csv
+Backers Table: 
+![image](https://user-images.githubusercontent.com/114967995/216800882-392ec88d-b5d7-4e96-a95d-2fc95244037f.png)
+
+Deliverable 4
+
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/email_contacts_remaining_goal_amount.csv
+https://github.com/WoyramA/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql.sql
 
 ## Summary
 
